@@ -1,1 +1,1 @@
-# Minimum-Vertex-Cover-on-Trees-DP-Approach-
+# Minimum-Vertex Cover on Trees (DP Approach)
